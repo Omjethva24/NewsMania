@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NewsMania/static/css/main.153b3f02.css",
+    "main.js": "/NewsMania/static/js/main.a19e7bfd.js",
+    "static/js/787.02d3f288.chunk.js": "/NewsMania/static/js/787.02d3f288.chunk.js",
+    "static/media/default.jpg": "/NewsMania/static/media/default.6a226dc5a7fde486aa46.jpg",
+    "static/media/loading-waiting.gif": "/NewsMania/static/media/loading-waiting.ccaed95b8a40a9bc24b5.gif",
+    "index.html": "/NewsMania/index.html",
+    "main.153b3f02.css.map": "/NewsMania/static/css/main.153b3f02.css.map",
+    "main.a19e7bfd.js.map": "/NewsMania/static/js/main.a19e7bfd.js.map",
+    "787.02d3f288.chunk.js.map": "/NewsMania/static/js/787.02d3f288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153b3f02.css",
+    "static/js/main.a19e7bfd.js"
+  ]
+}
