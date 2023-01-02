@@ -39,7 +39,9 @@ const News = (props) => {
 
     useEffect(() => {
         updateNews()
+        // eslint-disable-next-line
         document.title = `${captalizedString(props.category)} - NewsMania`
+        // eslint-disable-next-line
     }, [])
 
     const fetchMoreData = async () => {
